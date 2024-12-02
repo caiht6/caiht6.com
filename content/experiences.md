@@ -51,17 +51,17 @@ date: "2024-12-01"
 
 <br><h1 style="text-align: center;">RESEARCH FUNDING</h1>
 
--   **Shanghai Xuhui District Health Committee**, Youth Program, 2024-2026
+**Shanghai Xuhui District Health Committee**, Youth Program, 2024-2026
 
-    -   **Title:** *Understanding Addiction Abnormalities and Treatment using Methadone Maintenance Treatment Populations: from Brain Connectome-Based Perspective*
-    -   **Role:** Leader
+  -   **Title:** *Understanding Addiction Abnormalities and Treatment using Methadone Maintenance Treatment Populations: from Brain Connectome-Based Perspective*
+  -   **Role:** Leader
 
--   **Shanghai Xuhui District Health Committee**, Key Medical Discipline Program, 2024-2026
+**Shanghai Xuhui District Health Committee**, Key Medical Discipline Program, 2024-2026
 
-    -   **Title:** *Based on The Network Theory of Mental Disorders to Understanding the Inter-relationship between Depressive and Anxiety Symptoms in Suicidal Ideation*
-    -   **Role:** Leader
+  -   **Title:** *Based on The Network Theory of Mental Disorders to Understanding the Inter-relationship between Depressive and Anxiety Symptoms in Suicidal Ideation*
+  -   **Role:** Leader
 
--   **Sun Yat-Sen University**, Innovation Training Project for Undergraduates, 2019-2020
+**Sun Yat-Sen University**, Innovation Training Project for Undergraduates, 2019-2020
 
-    -   **Title:** *The Impact of Perceived Social Support and Self-Compassion on College Students' Physical and Mental Health A Study of Problematic Eating Behaviors*
-    -   **Role:** co-Leader
+  -   **Title:** *The Impact of Perceived Social Support and Self-Compassion on College Students' Physical and Mental Health A Study of Problematic Eating Behaviors*
+  -   **Role:** co-Leader
