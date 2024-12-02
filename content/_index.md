@@ -14,4 +14,4 @@ Driven by a strong desire to further my research training, I am actively seeking
 
 caiht6 \[at\] sysu \[dot\] edu \[dot\] cn
 
-[Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&user=fpRmwZQAAAAJ&view_op=list_works&sortby=pubdate) \| [Open Science](https://osf.io/m9c5h/) \| [GitHub](https://github.com/caiht6) | [CV](https://github.com/caiht6/caiht6.com/share/cv_caiht_2024nov.pdf)
+[Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&user=fpRmwZQAAAAJ&view_op=list_works&sortby=pubdate) \| [Open Science](https://osf.io/m9c5h/) \| [GitHub](https://github.com/caiht6) | [CV](https://github.com/caiht6/caiht6.com/blob/main/share/cv_caiht_2024nov.pdf)

@@ -5,6 +5,12 @@
     <loc>//localhost:4321/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/experiences/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/publications/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/categories/</loc>
   </url><url>
     <loc>//localhost:4321/tags/</loc>
