@@ -8,15 +8,18 @@ ignoreFiles:
   - _cache$
 
 permalinks:
-  post: /:year/:month/:day/:slug/
+  pages: /:slug/
 menu:
   main:
-    - name: About
-      url: /about/
+    - name: Home
+      url: /
+      weight: 10 
     - name: Experiences
       url: /experiences/
+      weight: 20
     - name: Publications
       url: /publications/
+      weight: 30 
 
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
@@ -31,9 +34,9 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     alt: Logo
-    height: 100
+    height: 200
     url: home-logo.png
-    width: 100
+    width: 200
 
 markup:
   defaultMarkdownHandler: goldmark
