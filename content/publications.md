@@ -5,13 +5,13 @@ date: "2024-12-01"
 <h1 style="text-align: center;"> Peer-reviewed Articles </h1>
 
 *(# indicates co-first author, \* indicates corresponding author)*
-1. **Cai H-T#**, Zhang H-W#, Zheng H#, Xu T, Liu L, Ban X-Y, Di J-Z\*, Yuan T-F\*, Han X-D\*. (2023). Development of Chinese Food Picture Library for Inducing Food Cravings. *Frontiers in Psychology*.  <u>[[doi](https://doi.org/10.3389/fpsyg.2023.1143831)]</u>
+1. Luo H#, Ye X#, **Cai H-T#**, Wang M#, Wang Y, Liu Q, Xu Y, Mao Z, Cai Y, Hong J, Zhang C, Wei P, Lu Y, Liu Q\*, Xu J\*, Yuan T-F\*. (2025). Frequency-specific and State-dependent Neural Responses to Brain Stimulation. *Molecular Psychiatry*. <u>[[doi](https://doi.org/10.1038/s41380-025-02892-7)]</u> <u>[[SharedIt](https://rdcu.be/d6WsL)]</u>
 
-2. Ding Q#, **Cai H-T#**, Wu M, Cai G, Chen H, Li W, Lin T, Jing Y, Yuan T-F\*, Xu G\*, Lan Y\*. (2021). Short Intracortical Facilitation Associates with Motor-inhibitory Control. *Behavioural Brain Research.* <u>[[doi](https://doi.org/10.1016/j.bbr.2021.113266)]</u>
+2. **Cai H-T#**, Zhang H-W#, Zheng H#, Xu T, Liu L, Ban X-Y, Di J-Z\*, Yuan T-F\*, Han X-D\*. (2023). Development of Chinese Food Picture Library for Inducing Food Cravings. *Frontiers in Psychology*.  <u>[[doi](https://doi.org/10.3389/fpsyg.2023.1143831)]</u>
+
+3. Ding Q#, **Cai H-T#**, Wu M, Cai G, Chen H, Li W, Lin T, Jing Y, Yuan T-F\*, Xu G\*, Lan Y\*. (2021). Short Intracortical Facilitation Associates with Motor-inhibitory Control. *Behavioural Brain Research.* <u>[[doi](https://doi.org/10.1016/j.bbr.2021.113266)]</u>
 
 <h1 style="text-align: center;"> Manuscripts Under Review/ In Revision </h1>
-
-3. Luo H#, Ye X#, **Cai H-T#**, Wang M#, Wang Y, Liu Q, Xu Y, Mao Z, Cai Y, Hong J, Zhang C, Wei P, Lu Y, Liu Q\*, Xu J\*, Yuan T-F\*. (in revision). Frequency-specific and State-dependent Neural Responses to Brain Stimulation. *Molecular Psychiatry*.
 
 4. Li Y#, **Cai H-T#**, Li S-Q, Liu Z-Q, Yang Q, Li F, Xu P\*, Zheng H\*, Han X-D\*. (submitted). Alterations in the Resting-state Functional Network are Associated with Food Addiction.
 
