@@ -43,15 +43,13 @@ date: "2024-12-01"
 
 -   2019 **National Scholarship, Minister of Education of China**
 
--   2019 First Prize Scholarship of Outstanding Students, Sun Yat-Sen University
-
 -   2017,2018 National Inspirational Scholarship, Minister of Education of China
 
--   2017,2018 Scholarship of Outstanding Students, Sun Yat-Sen University
+-   2017-2019 Scholarship of Outstanding Students, Sun Yat-Sen University
 
 <br><h1 style="text-align: center;">RESEARCH FUNDING</h1>
 
-**Shanghai Xuhui District Health Committee**, Youth Program, 2024-2026
+**Shanghai Xuhui District Health Committee**, Youth Program, 2025-2027
 
   -   **Title:** *Understanding Addiction Abnormalities and Treatment using Methadone Maintenance Treatment Populations: from Brain Connectome-Based Perspective*
   -   **Role:** Leader
