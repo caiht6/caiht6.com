@@ -23,5 +23,5 @@ date: "2025-10-16"
 
 7. **Cai H-T.** (2019). *The Effect of Positive Psychological Capital on Academic Performance: A Moderated Mediation Model.* The "Psychology for the 21st Century" Undergraduate Psychology Forum, 6 July, Beijing, China. 
 
-8. **Cai H-T.** et al. (2024). *A Network Approach to Understanding the Inter-relationship between Depressive and Anxiety Symptoms in Suicidal Ideation.* The 22nd Psychiatric Medical Conference of Chinese Medical Association, 11-14 Sep, Shenyang, China. <u>[[poster](https://github.com/Cai-hui/OutpatientsNet/blob/main/CSP2024_Poster_Cai.pdf)]</u>
+8. **Cai H-T.** et al. (2024). *A Network Approach to Understanding the Inter-relationship between Depressive and Anxiety Symptoms in Suicidal Ideation.* The 22nd Psychiatric Medical Conference of Chinese Medical Association, 11-14 Sep, Shenyang, China.
 
