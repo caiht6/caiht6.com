@@ -6,7 +6,7 @@ date: "2024-12-01"
 
 🤗 Welcome to my website!
 
-I am a graduate student from Shanghai Jiao Tong University, where I earned my 🎓Master's degree in Psychology . Currently, I am engaged as a full-time researcher at 🏥Shanghai Xuhui Mental Health Center in China (expected to finish in *June 2026*).
+I am a graduate student from Shanghai Jiao Tong University, where I earned my 🎓Master's degree in Psychology . Currently, I am engaged as a full-time researcher at 🏥Shanghai Xuhui Mental Health Center in China.
 
 Driven by a strong desire to further my research training, I am actively seeking a Ph.D. position in **Psychology and Cognitive Neuroscience**. With over three years of experience in organizing and conducting clinical research, I have honed my skills in collecting and analyzing human electro-neurophysiological signals, including scalp EEG and stereo EEG. Furthermore, I possess expertise in integrating these techniques with non-invasive brain stimulation methods such as TMS, tDCS, and tACS. More information can be found at my <u>[Experiences](/experiences)</u> and <u>[Publications](/publications)</u> pages.
 
@@ -16,9 +16,11 @@ Driven by a strong desire to further my research training, I am actively seeking
 
 07/2025 Our paper [“Altered Reward Feedback Processing in Methadone Maintenance Treatment Patients: An ERP Study Using the Monetary Incentive Delay Task”](https://doi.org/10.1016/j.pnpbp.2025.111440) is accepted by *Progress in Neuro-Psychopharmacology and Biological Psychiatry*.
 
+10/2025 Our paper [“Anxiety Symptoms as a Hub-mediation Nexus in Suicidal Ideation Among Depressed Patients”](https://link.springer.com/article/10.1186/s12888-025-07552-2) is accepted by *BMC Psychiatry*.
+
 ### Contact
 
-caiht6 \[at\] mail2 \[dot\] sysu \[dot\] edu \[dot\] cn
+caiht6 \[at\] 163 \[dot\] com
 
 [Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&user=fpRmwZQAAAAJ&view_op=list_works&sortby=pubdate) \| [Open Science](https://osf.io/m9c5h/) \| [GitHub](https://github.com/caiht6) 
 
