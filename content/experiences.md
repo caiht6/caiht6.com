@@ -13,7 +13,6 @@ date: "2024-12-01"
     </h4>
     <p style="margin: 0; color: #666; line-height: 1.5;">
       M.Ed. in Psychology, Shanghai Mental Health Center<br>
-      First Prize Scholarship
     </p>
   </div>
   
