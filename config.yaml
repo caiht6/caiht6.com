@@ -9,6 +9,7 @@ ignoreFiles:
 
 permalinks:
   pages: /:slug/
+
 menu:
   main:
     - name: Home
@@ -21,22 +22,22 @@ menu:
       url: /publications/
       weight: 30 
 
+
+
 params:
+  customCSS:
+    - css/custom.css
+
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: A website built through Hugo and blogdown.
-  favicon: favicon.ico
+  favicon: "favicon.ico"
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
     - r
     - yaml
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
-  logo:
-    alt: Logo
-    height: 200
-    url: home-logo.png
-    width: 200
 
 markup:
   defaultMarkdownHandler: goldmark

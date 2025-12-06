@@ -1,0 +1,47 @@
+
+@import url('front.css');
+@import url('layout.css');
+@import url('icon.css');
+@import url('publication.css');
+/* ========================================================
+   设置超链接显示格式
+   ======================================================== */
+   
+   
+/* --- 设置main-content的超链接标记 --- */
+.article-content a {
+  text-decoration: none; /* 或者 underline 如果你想要普通下划线 */
+  color: #3c7cec;        /* 建议给链接一个蓝色，不然可能看不出来是链接 */
+  border-bottom: none;   /* 去掉底部绿线 */
+  box-shadow: none;      /* 去掉高光阴影 */
+  transition: color 150ms ease;
+}
+
+.article-content a:hover,
+.article-content a:focus {
+  background: transparent; /* 悬停时不填充背景 */
+  text-decoration:none;
+  
+  text-shadow: 0.5px 0 0 currentColor; /* 鼠标悬停时，文本加粗 */
+  transition: all 0.2s ease;           /* 添加平滑动画 */
+}
+
+/* --- 去掉sidebar的超链接标记 --- */
+.sidebar a {
+  color: #333;
+}
+
+.sidebar a:hover .my-icon {
+    transform: translateY(-2px); /* 鼠标悬停时，图标向上飘 2像素 */
+    transition: transform 0.2s;  /* 添加平滑动画 */
+}
+
+
+/* ========================================================
+   设置校徽logo
+   ======================================================== */
+   
+/* --- 自定义图标样式 --- */
+
+<img src="/images/sjtu_logo.png" alt="SJTU Logo" 
+     style="width: 60px; height: 60px; object-fit: contain; flex-shrink: 0; margin-top: 5px;">

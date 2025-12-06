@@ -1,0 +1,72 @@
+/* ========================================================
+   Sidebar 的Icon设置 
+   ======================================================== */
+  
+/* 1. 基础样式：定好位置和大小 */
+.my-icon {
+  display: inline-block; /* 必须加！<i> 标签默认是行内元素，无法设置宽高 */
+  width: 22px;           /* 根据需要调整 */
+  height: 22px;
+  background-size: contain; /* 确保图片完整显示，不被拉伸 */
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle; /* 让图标和旁边的文字对齐 */
+}
+
+/* 2. 具体图标：指定图片路径 */
+.icon-email {
+  background-image: url('/images/icon_email.png');
+}
+
+.icon-orcid {
+  background-image: url('/images/icon_orcid.svg');
+}
+
+.icon-github {
+  background-image: url('/images/icon_github.png');
+}
+
+.icon-osf {
+  background-image: url('/images/icon_osf.png');
+}
+
+.icon-scholar {
+  background-image: url('/images/Google_Scholar_logo.png');
+}
+
+
+/* ========================================================
+   Education 的logo设置 
+   ======================================================== */
+   
+/* 1. 基础设置：所有校徽通用的样子 */
+.set-logo {
+  display: block;          /* 必须变成块级元素，否则无法设置宽高 */
+  width: 75px;             /* 设置宽度 */
+  height: 75px;            /* 设置高度 */
+  
+  background-size: contain;/* 图片完整显示，不拉伸 */
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  vertical-align: middle;  /* 让图标和旁边的文字对齐 */
+  flex-shrink: 0;          /* 防止被右边的文字挤扁 */
+
+  margin: 10px 5px; 
+}
+
+/* 2. 定义具体图片路径 */
+/* 记得确认你的图片文件名是否正确 */
+.logo-sjtu {
+  background-image: url('/images/sjtu_logo.png');
+}
+
+.logo-sysu {
+  background-image: url('/images/sysu_logo.png');
+}
+
+
+
+
+
+  

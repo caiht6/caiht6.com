@@ -2,52 +2,68 @@
 date: "2024-12-01"
 ---
 
-<h1 style="text-align: center;">EDUCATION</h1>
+# Education
 
-**2020 - 2023 Shanghai Jiao Tong University**
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 10px;">
+<i class="set-logo logo-sjtu"></i>
 
--   M.Ed. in Psychology, Shanghai Mental Health Center
+  <div>
+    <h4 style="margin: 10px 0 5px 0; font-size: 1em; color: #333;">
+      2020.09 - 2023.06 &nbsp;|&nbsp; Shanghai Jiao Tong University
+    </h4>
+    <p style="margin: 0; color: #666; line-height: 1.5;">
+      M.Ed. in Psychology, Shanghai Mental Health Center<br>
+      First Prize Scholarship
+    </p>
+  </div>
+  
+</div>
 
-**2016 - 2020 Sun Yat-Sen University**
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 10px;">
+<i class="set-logo logo-sysu"></i>
 
--   B.S. in Psychology, Department of Psychology
+  <div>
+    <h4 style="margin: 10px 0 5px 0; font-size: 1em; color: #333;">
+      2016.09 - 2020.06 &nbsp;|&nbsp; Sun Yat-Sen University
+    </h4>
+    <p style="margin: 0; color: #666; line-height: 1.5;">
+      B.S. in Psychology, Department of Psychology
+    </p>
+  </div>
+  
+</div>
 
-<br> <h1 style="text-align: center;">RESEARCH EXPERIENCES</h1>
+<hr>
 
-**Clinical Psychology Research Center, Shanghai Xuhui Mental Health Center**
-
--   Duration: 07/2023 - present <br>
--   Advisor: Prof. Ti-Fei Yuan, Dr. Zhipeng Cao <br>
+# Research Experience
+**2023.07 - present | Shanghai Xuhui Mental Health Center**
+-   Advisor: Prof. Ti-Fei Yuan, Dr. Zhipeng Cao 
 -   Research Topics/Skills:
-    -   Large-scale Brain Networks<sup>\[Scalp-EEG & Source Reconstruction\]</sup>
+    -   Large-scale Brain Networks <sup>\[Scalp-EEG & Source Reconstruction\]</sup>
     -   Network Analysis
 
-[**Prof. Ti-Fei Yuan's Lab**](https://psy.sjtu.edu.cn/index.php?m=content&c=index&a=show&catid=11221&id=225)**, Shanghai Mental Health Center**
-
--   Duration: 07/2020 - 06/2023 <br>
+**2020.07 - 2023.06 | [Prof. Ti-Fei Yuan's Lab](https://psy.sjtu.edu.cn/index.php?m=content&c=index&a=show&catid=11221&id=225), Shanghai Mental Health Center**
 -   Research Topics/Skills:
     -   Non-invasive Brain Stimulation <sup>\[TMS, tACS & Stereo-EEG\]</sup>
     -   Neural Mechanisms of Cravings <sup>\[Stimulus Material Development, Scalp-EEG, Stereo-EEG\]</sup>
 
-[**Prof. Zhen-Zhu Yue's Lab**](https://psy.sysu.edu.cn/teacher/312)**, Sun Yat-Sen University**
-
--   Duration: 09/2017 - 06/2020 <br>
+**2017.09 - 2020.06 ｜ [Prof. Zhen-Zhu Yue's Lab](https://psy.sysu.edu.cn/teacher/312), Sun Yat-Sen University**
 -   Research Topics/Skills:
     -   Structural Equation Modelling with Mplus
 
-<br> <h1 style="text-align: center;">HONOURS & AWARDS</h1>
+<hr>
 
--   2021 The First Prize Scholarship, Shanghai Jiao Tong University
+# Honours & Awards
 
+-   2021 First Prize Scholarship, Shanghai Jiao Tong University
 -   2020 Inspirational Excellence Scholarship, Sun Yat-Sen University
-
--   2019 **National Scholarship, Minister of Education of China**
-
+-   2019 National Scholarship, Minister of Education of China (Top 1%)
 -   2017,2018 National Inspirational Scholarship, Minister of Education of China
-
 -   2017-2019 Scholarship of Outstanding Students, Sun Yat-Sen University
 
-<br><h1 style="text-align: center;">RESEARCH FUNDING</h1>
+<hr>
+
+# Research Funding
 
 **Shanghai Xuhui District Health Committee**, Youth Program, 2025-2027
 

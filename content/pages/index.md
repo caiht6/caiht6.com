@@ -2,24 +2,35 @@
 date: "2024-12-01"
 ---
 
-# Hui-Ting Cai    (蔡慧婷)
+<div class="page-container">
 
-🤗 Welcome to my website!
+<div class="sidebar">
+<img src="/images/my_photo.png" alt="Your Profile Photo" class="sidebar-profile-image">
 
-I am a graduate student from Shanghai Jiao Tong University, where I earned my 🎓Master's degree in Psychology . Currently, I am engaged as a full-time researcher at 🏥Shanghai Xuhui Mental Health Center in China (expected to finish in *June 2025*).
+### Hui-Ting Cai｜蔡慧婷
 
-Driven by a strong desire to further my research training, I am actively seeking a Ph.D. position in **Psychology and Cognitive Neuroscience**. With over three years of experience in organizing and conducting clinical research, I have honed my skills in collecting and analyzing human electro-neurophysiological signals, including scalp EEG and stereo EEG. Furthermore, I possess expertise in integrating these techniques with non-invasive brain stimulation methods such as TMS, tDCS, and tACS. More information can be found at my <u>[Experiences](/experiences)</u> and <u>[Publications](/publications)</u> pages.
+专注于 [你的研究方向/工作内容]
 
-### News
+<hr>
 
-01/2025 Our paper [“Frequency-specific and State-dependent Neural Responses to Brain Stimulation”](https://rdcu.be/d6WsL) is accepted by *Molecular Psychiatry*.
-
-07/2025 Our paper [“Altered Reward Feedback Processing in Methadone Maintenance Treatment Patients: An ERP Study Using the Monetary Incentive Delay Task”](https://doi.org/10.1016/j.pnpbp.2025.111440) is accepted by *Progress in Neuro-Psychopharmacology and Biological Psychiatry*.
-
-### Contact
-
-caiht6 \[at\] sysu \[dot\] edu \[dot\] cn
-
-[Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&user=fpRmwZQAAAAJ&view_op=list_works&sortby=pubdate) \| [Open Science](https://osf.io/m9c5h/) \| [GitHub](https://github.com/caiht6) 
+* 📧 你的邮箱
+* 🔗 LinkedIn
+* 💻 Github
+</div>
 
 
+<div class="main-content">
+        
+<p style="background-color: #f3e5f5; padding: 10px; border-left: 5px solid #9c27b0; color: #6a1b9a;">
+            🤗 欢迎来到我的网站！我目前是 [你的身份]。
+</p>
+
+<p>我的研究兴趣包括 [兴趣一]、[兴趣二] 等。</p>
+
+<hr>
+## 🔥 News
+
+* 2024.12: [最新消息 1]
+* 2024.11: [最新消息 2]
+</div>
+</div>

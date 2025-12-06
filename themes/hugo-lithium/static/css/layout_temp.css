@@ -1,0 +1,48 @@
+/* --- 修正版：强制 News 和 Map 及其“下方内容”一起向左移 --- */
+@media (min-width: 768px) {
+
+    
+/* --- 对齐bio和sidebar的高度 --- */
+    #\-welcome-to-my-website {
+  margin-top: 50px !important;
+  min-height: 50px; 
+}
+
+/* --- 虚拟上下布局 --- */
+    #-welcome-to-my-website ~ hr, 
+    
+    /* 1. 选中标题本身 */
+      #news, #-news, .section-news,
+      #visitor-map, .section-map{
+      
+      margin-left: -250px !important;           /* 向左拉 */
+      width: calc(100% + 250px) !important;     /* 把拉走的宽度补回来 */
+      max-width: none !important;               /* 解除宽度限制 */
+      padding-left: 10px;                       /* 左侧留点空隙，别贴太死 */
+      box-sizing: border-box;                   /* 关键：防止 padding 撑出横向滚动条 */
+  }
+
+    /* 2. 选中 News 下面的列表 (ul) 和段落 (p) */
+      #news ~ ul, 
+      #news ~ p,
+      #news ~ div,
+      #news ~ hr, 
+      
+      #-news ~ ul, 
+      #-news ~ p,
+      #-news ~ div,
+      #-news ~ hr,
+      
+      /* 3. 选中 Map 下面的地图容器 (通常是 div 或 iframe) */
+      #visitor-map ~ div,
+      #visitor-map ~ iframe,
+      #visitor-map ~ p {
+      
+      margin-left: -210px !important;           /* 向左拉 */
+      width: calc(100% + 210px) !important;     /* 把拉走的宽度补回来 */
+      max-width: none !important;               /* 解除宽度限制 */
+      padding-left: 10px;                       /* 左侧留点空隙，别贴太死 */
+      box-sizing: border-box;                   /* 关键：防止 padding 撑出横向滚动条 */
+      }
+
+}  

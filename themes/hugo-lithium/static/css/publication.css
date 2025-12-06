@@ -1,0 +1,45 @@
+/* --- 图文版成果展示组件  --- */
+
+/* 1. 主容器：双栏 Flex 布局 */
+.pub-entry {
+  display: flex;
+  gap: 20px;              /* 左右两栏之间的间距 */
+  margin-bottom: 30px;    /* 每个成果条目底部的间距 */
+  align-items: flex-start; /* 顶部对齐 */
+}
+
+/* 2. 左侧：图片容器 */
+.pub-image-container {
+  flex: 0 0 200px;        /* 固定宽度 180px，不可伸缩 */
+  position: relative;     /* 为内部的绝对定位标签做参照 */
+}
+
+
+/* 图片本身 */
+.pub-image-container img {
+  width: 100%;            /* 撑满容器宽度 */
+  height: auto;
+  display: block;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* 加一点点阴影，更有立体感 */
+  border: 1px solid #eee; /* 可选：加个细边框 */
+}
+
+/* 3. 右侧：文本容器 */
+.pub-text-container {
+  flex: 1;                /* 占据剩余空间 */
+}
+
+/* 论文标题链接 */
+.pub-title-link {
+  display: block;         /* 独占一行 */
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+/* 4. 副标题/摘要 (Narrative Summary) */
+.pub-summary {
+  font-size: 0.9em;
+  color: #666;
+  border-top: 1px dotted #ddd; /* 可选：加条虚线分隔，更清晰 */
+  padding-top: 5px;
+}
