@@ -31,7 +31,7 @@ Explore my <a href="/experiences">Experiences</a> and <a href="/publications">Pu
 
 # News
 - 2025.11: 🎉 Paper accepted by **Journal of Eating Disorders** (IF=4.5, Q1): 
-Alterations in the Resting-state Functional Network are Associated with Food Addiction: An EEG Study.
+[Alterations in the Resting-state Functional Networks are Associated with Food Addiction: An EEG Study.](https://link.springer.com/article/10.1186/s40337-025-01488-4)
 
 - 2025.10: 🎉 Paper accepted by **BMC Psychiatry** (IF=3.6, Q1): 
 [Anxiety Symptoms as a Hub-mediation Nexus in Suicidal Ideation Among Depressed Patients.](https://link.springer.com/article/10.1186/s12888-025-07552-2) 

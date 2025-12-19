@@ -34,7 +34,8 @@ Short Intracortical Facilitation Associates with Motor-inhibitory Control. **Beh
 [[PDF]](/share/2021BBRES_ppTMS_SICF-SSRT.pdf)
 
 6. Li Y&dagger;, **Cai H-T&dagger;**, Li S-Q, Liu Z-Q, Yang Q, Li F, Xu P\*, Zheng H\*, Han X-D\*. (accepted). 
-Alterations in the Resting-state Functional Network are Associated with Food Addiction: An EEG Study. **Journal of Eating Disorders**. (IF=4.5, Q1) 
+Alterations in the Resting-state Functional Networks are Associated with Food Addiction: An EEG Study. **Journal of Eating Disorders**. (IF=4.5, Q1) 
+[[DOI]](https://link.springer.com/article/10.1186/s40337-025-01488-4)
 
 <hr>
 
